@@ -1,3 +1,5 @@
 # Generated files
 /target/**
 target/**
+\target\**
+target\**
